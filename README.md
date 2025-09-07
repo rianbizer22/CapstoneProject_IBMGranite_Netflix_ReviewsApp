@@ -1,7 +1,7 @@
 # 📌 Analisis Sentimen Aplikasi Netflix Menggunakan IBM Granite  
 
 ## 1. Project Title  
-**Analisis Sentimen dan Ringkasan Ulasan Aplikasi Netflix dengan IBM Granite**  
+**Sentiment Analysis and User Feedback Insights on Netflix App Reviews**  
 
 ## 2. Project Overview  
 Proyek ini bertujuan untuk menganalisis ulasan pengguna aplikasi Netflix dengan pendekatan **analisis sentimen** dan **ringkasan berbasis AI**.  
